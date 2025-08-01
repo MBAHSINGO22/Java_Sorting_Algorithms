@@ -1,5 +1,5 @@
 
-# 📝 Java_Sorting_Algorithms
+# 📝 Java Sorting Algorithms
 
 ## Implementasi Algoritma Pengurutan dalam Java
  Menampilkan implementasi algoritma pengurutan seperti Bubble Sort dan Selection Sort pada array.
